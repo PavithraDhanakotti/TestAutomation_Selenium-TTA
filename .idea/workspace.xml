@@ -42,6 +42,11 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.TestAutomationSelenium.Selenium_31March" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.S10">
     <configuration name="S10" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomation_Selenium" />

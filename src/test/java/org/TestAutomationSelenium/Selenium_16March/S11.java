@@ -1,4 +1,4 @@
-package org.TestAutomationSelenium.Selenium_17March;
+package org.TestAutomationSelenium.Selenium_16March;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
